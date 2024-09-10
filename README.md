@@ -5,4 +5,5 @@ The idea is to keep increasing my portfolio working for more and more diverse co
 - Data Analytics
 - Data Visualization
 - Machine Learning
+
 Just stop READing ME and TEXT ME :)
